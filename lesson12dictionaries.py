@@ -31,12 +31,7 @@ for key, value in person.items():
     print (f"{key}:{value}")
     
 
-colors=["blue","red","pink","yellow"]
 
-
-
-f(color[1])==blue):
-print(color[1].uppercase{})
   
 
 
