@@ -5,6 +5,7 @@
 
 
 from turtle import color
+from webbrowser import get
 
 
 name ="naomi njeri"
@@ -21,6 +22,12 @@ person["age"]="20"#adding
 person["favorite color"]="blue"
 print(type(person))
 print(person)
+print(person.get"("password".the"location" /"the key id non existed")")
+
+print
+
+
+
 
 print(person["name"],person["favorite color"],person["age"])
 del person["id_number"]

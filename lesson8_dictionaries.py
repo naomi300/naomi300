@@ -1,4 +1,4 @@
-#t/user/bin/pythonnaries
+#t/user/bin/python
 
 ###########################
 
