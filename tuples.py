@@ -9,3 +9,5 @@ print(new_fruits[2])
 fav_food=["beef","rice","chapo"]
 for fav in fav_food:
     print(fav_food)
+
+    

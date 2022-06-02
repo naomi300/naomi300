@@ -25,13 +25,13 @@ def say_hello():
 say_hello()
 
 def cow():
-    print("cow moows")
+    print(f"cow moows")
 say_hello()
 
 #calling the function
 import math
 a =int (input("enter the co-efficient of the first term"))
-b = int (input("enter the co-efficient of the second term"))
+b = int (input("enter the co-efficient of the second term")git )
 c = int (input("enter the constant"))
 a = 1
 b = -6

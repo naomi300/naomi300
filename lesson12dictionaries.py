@@ -2,12 +2,6 @@
 
 #dictionaries is a collection of key value pairs
 #syntax: dictionary = ["key":"value"]
-
-
-from turtle import color
-from webbrowser import get
-
-
 name ="naomi njeri"
 colors={"color":"red"}
 vehicle = {"type":"vanguard","plate_number":"KER234R"}
@@ -24,7 +18,7 @@ print(type(person))
 print(person)
 print(person.get"("password".the"location" /"the key id non existed")")
 
-print
+
 
 
 
