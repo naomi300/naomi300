@@ -8,7 +8,7 @@ class person:
 person1 = person("naomi", str(20))
 person1.sayHi()
 
-person2 = person("john", str(22))
+person2 = person("james", str(22))
 person2.sayHi()
 
     
