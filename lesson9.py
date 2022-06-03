@@ -10,7 +10,7 @@
 print("number")
 print("\t")
 print("=====================")
-for number in range(0,9):
+for number in range(0,10):
     print (number)
 
     
