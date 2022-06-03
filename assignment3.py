@@ -9,4 +9,4 @@ if (int(age)>25) and (int(age)<30):
 else :
     print("sorry no money for you")
 
-dddffe="sfsfq"
+
