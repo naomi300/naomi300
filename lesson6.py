@@ -1,5 +1,5 @@
 #learning about lists
-plate_number=['KAZ123W','KPS900T','KUY235K']
+plate_number=['KAZ456U','KPS900T','KUY235K']
 motorcycle =['honda','suzuki','yamaha']
 #accesing lists items using index
 #print(motorcycle)
