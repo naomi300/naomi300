@@ -1,0 +1,22 @@
+This is a normal text file 
+learning python  is fun
+my name is naomi
+open file
+append      .append()
+write file  .write()
+read file    .read()
+seek file  .seek()
+tell file   .tell()
+readline    .readline()
+f = open("lesson.txt")
+f = open("lesson.txt","w")
+f = open("img","bmp","r+b")
+r = reading
+w = writing
+x = exclusive creation
+a = opens files for appending at the end 
+t = opens files in txt mode
+b = opens in binary mode
++ opens a file for updating (reading and writing)
+
+
