@@ -17,7 +17,6 @@ chr = 'Naomi1024'
 #len_password
 #print('here are your passwords')
 number_password = int (input("write your preffered numbers"))
-sym_password ="Naomi1024"
 len_password = int(input("how many characters would you like"))
 for password in range(number_password):
     password=''
