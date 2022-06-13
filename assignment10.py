@@ -1,4 +1,4 @@
-#digital and analogue
+#creating analogue clock
 import turtle
 import time
 
